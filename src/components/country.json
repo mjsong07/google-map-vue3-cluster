@@ -1,0 +1,55 @@
+{
+    "msg": "操作成功",
+    "code": 1,
+    "data": [
+        {
+            "name": "DE",
+            "total": 100000,
+            "type": 0,
+            "lat": 50.8413913676,
+            "lng": 9.8546341791,
+            "level": "country"
+        },
+        {
+            "name": "GB",
+            "total": 120000,
+            "type": 0,
+            "lat": 52.8569821501,
+            "lng": -1.8438446695,
+            "level": "country"
+        },
+        {
+            "name": "US",
+            "total": 138645,
+            "type": 0,
+            "lat": 35.9044657406,
+            "lng": -90.7445779738,
+            "level": "country"
+        },
+        {
+            "name": "DE",
+            "total": 5607,
+            "type": 1,
+            "lat": 51.1472802540,
+            "lng": 10.1965106012,
+            "level": "country"
+        },
+        {
+            "name": "GB",
+            "total": 5000,
+            "type": 1,
+            "lat": 52.5180206306,
+            "lng": -1.3837693465,
+            "level": "country"
+        },
+        {
+            "name": "US",
+            "total": 380,
+            "type": 1,
+            "lat": 35.4130369368,
+            "lng": -88.5504327184,
+            "level": "country"
+        }
+    ],
+    "time": 1746525743
+}

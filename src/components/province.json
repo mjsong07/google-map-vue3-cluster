@@ -1,0 +1,47 @@
+{
+    "msg": "操作成功",
+    "code": 1,
+    "data": [
+        {
+            "name": "Cymru",
+            "total": 5,
+            "type": 0,
+            "lat": 53.0445760000,
+            "lng": -2.9804344000,
+            "level": "province"
+        },
+        {
+            "name": "England",
+            "total": 40163,
+            "type": 0,
+            "lat": 53.3112153496,
+            "lng": -1.7028018244,
+            "level": "province"
+        },
+        {
+            "name": "Wales",
+            "total": 199,
+            "type": 0,
+            "lat": 53.0963229497,
+            "lng": -2.9712644774,
+            "level": "province"
+        },
+        {
+            "name": "England",
+            "total": 1034,
+            "type": 1,
+            "lat": 53.1120096373,
+            "lng": -1.7326912718,
+            "level": "province"
+        },
+        {
+            "name": "Wales",
+            "total": 13,
+            "type": 1,
+            "lat": 53.0484141538,
+            "lng": -2.9764837692,
+            "level": "province"
+        }
+    ],
+    "time": 1746525768
+}
