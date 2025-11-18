@@ -1,0 +1,28 @@
+{
+  "msg": "操作成功",
+  "code": 1,
+  "data": {
+    "row": {
+      "storeName": "Moose tracks vape",
+      "own": 1,
+      "googleImgList": [
+        "https://picsum.photos/200/200?a=1",
+        "https://picsum.photos/200/200?a=2",
+        "https://picsum.photos/200/200?a=3",
+        "https://picsum.photos/200/200?a=4"
+      ],
+      "posmImgList": [
+        "https://picsum.photos/200/200?a=1",
+        "https://picsum.photos/200/200?a=2"
+         
+         
+        ],
+      "storeImgList": [
+
+        "https://picsum.photos/200/200?a=1",
+        "https://picsum.photos/200/200?a=2"
+      ]
+    }
+  },
+  "time": 1763434289
+}

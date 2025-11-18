@@ -1,0 +1,36 @@
+{
+    "msg": "操作成功",
+    "code": 1,
+    "data": {
+        "row": { 
+      "id": 1,
+      "storeName": "Sunny Book Cafe",
+      "storeNo": "UKL058932",
+      "city": "London-",
+      "address": "48 Oakwood Ave, London, E17 9PY, UK",
+      "countryCode": "UK",
+      "countryName": "United Kingdom",
+      "storeType": "Cafe",
+      "channelType": "Chain Store",
+      "storeLevelName": "Premium",
+      "monthSales": "12500",
+      "supervisionName": "Emma Wilson",
+      "province": "England",
+      "area": "Waltham Forest",
+      "phoneNumber": "+44 20 8521 7643",
+      "storeCategory": "Book Cafe",
+      "mainImgUrl": "https://picsum.photos/200/200",
+      "img1Url": "https://picsum.photos/200/200",
+      "img2Url": "https://picsum.photos/200/200",
+      "img3Url": "https://picsum.photos/200/200",
+      "img4Url": "https://picsum.photos/200/200",
+      "img5Url": "https://picsum.photos/200/200",
+      "googleStoreLink": "https://www.google.com/maps/search/?api=1&query=Sunny%20Book%20Cafe&query_place_id=ChIJN1eT2uNEdkgR0E2GQ5q4AaM",
+      "postalCode": "E17 9PY",
+      "lat": 51.583271,
+      "lng": -0.014562,
+      "own": 0 
+        }
+    },
+    "time": 1763434366
+}
